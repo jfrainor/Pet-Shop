@@ -1,0 +1,41 @@
+/* Estilos personalizados */
+
+/* Navbar */
+
+/* Jumbotron */
+.jumbotron {
+  background-image: url('https://www.shutterstock.com/image-photo/row-tops-heads-cats-dogs-260nw-1034939470.jpg');
+  background-size:cover;
+  background-position: center;
+  color: #000000;
+  padding:1rem;
+  
+}
+
+/* Productos */
+.card {
+  border: none;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-text {
+  height: 60px;
+  overflow: hidden;
+}
+
+/* Servicios */
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* Footer */
+footer {
+  margin-top: 100px;
+}
+
+.text-muted {
+  font-size: 0.8rem;
+}
